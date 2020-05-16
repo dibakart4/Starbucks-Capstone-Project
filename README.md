@@ -2,6 +2,7 @@
 
 [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) 
 
+https://confirm.udacity.com/CRQHNKD5
 # Installation 
 - Python versions 3.*.
 - Python libraries:
