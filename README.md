@@ -3,6 +3,8 @@
 [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) 
 
 https://confirm.udacity.com/CRQHNKD5
+![Screenshot (866)](https://user-images.githubusercontent.com/55661515/82121598-f68f2700-97ab-11ea-81f3-83bb014b9583.png)
+
 # Installation 
 - Python versions 3.*.
 - Python libraries:
